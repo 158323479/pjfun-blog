@@ -7,6 +7,7 @@ export const SITE_CONFIG = {
   email:'pjfun@aliyun.com',
   socialLinks: {
     github: 'https://github.com/158323479/pjfun-blog',
+    Telegram: '',
   },
   foot:{
     github:'https://github.com/158323479/pjfun-blog',
