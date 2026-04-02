@@ -41,7 +41,7 @@
             &copy; {{ new Date().getFullYear() }} {{ t('siteTitle') }}. {{ t('allRightsReserved') }}
           </p>
           <p class="text-sm">
-             <a href="https://pjfun.top" target="_blank" class="text-orange-500 hover:text-orange-700 dark:text-gray-300">pjfun.top</a>
+             <a href="https://beian.miit.gov.cn" target="_blank" class="text-orange-500 hover:text-orange-700 dark:text-gray-300">鄂ICP备2026015731号-1</a>
           </p>
         </div>
       </div>
