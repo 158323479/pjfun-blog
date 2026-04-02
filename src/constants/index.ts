@@ -6,11 +6,8 @@ export const SITE_CONFIG = {
   keywords: ['博客', '技术分享', '前端开发', 'Vue', 'TypeScript'],
   email:'pjfun@aliyun.com',
   socialLinks: {
-    github: 'https://github.com/LXC-9349/pjfun-blog',
-    Telegram: 'https://t.me/pjfun_top',
   },
   foot:{
-    github:'https://github.com/LXC-9349/pjfun-blog',
   }
 }
 //仓库地址
